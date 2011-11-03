@@ -1,0 +1,4 @@
+Cria projetos em CakePHP baixando o Framework direto do site. Customiza a geração do Bake para utilizar jQueryUI.
+
+Para utilizar só baixar o projeto cook e instalar o plugin. 
+https://github.com/itakenami/cook
