@@ -1,0 +1,1 @@
+$("<?=$obj?>").button(<? if(isset($icon)): ?>{icons:{primary: "<?=$icon?>" }<? if(isset($text) && $text==false): ?>,text:false<?endif;?>}<?endif;?>);

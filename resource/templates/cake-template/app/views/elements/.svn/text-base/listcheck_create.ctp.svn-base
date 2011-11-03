@@ -1,0 +1,1 @@
+<div style="<? if(isset($width)): ?>width:<?=$width?>px;<?endif;?><? if(isset($height)): ?>height:<?=$height?>px;<?endif;?>overflow:auto;" class="ui-widget-content ui-corner-all">

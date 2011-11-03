@@ -1,0 +1,1 @@
+<div style="float: left;height: 20px;"><input style="padding-top: 100px" id="<?=$name?><?=$value?>" type="checkbox" name="<?=$name?>" value="<?=$value?>" ></div><div style="float: left;height: 13px;padding-top: 9px"><?=$label?></div><br><br>

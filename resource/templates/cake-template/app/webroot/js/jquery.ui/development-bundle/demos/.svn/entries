@@ -1,0 +1,168 @@
+10
+
+dir
+30
+svn://10.2.8.218/cakephp/trunk/template/cake-1.3.6/cake/console/templates/skel/webroot/js/jquery.ui/development-bundle/demos
+svn://10.2.8.218/cakephp
+
+
+
+2010-12-21T17:32:44.663583Z
+10
+u031281
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8cc41a36-a6fc-4546-9b67-6a76e88cb85a
+
+accordion
+dir
+
+addClass
+dir
+
+animate
+dir
+
+autocomplete
+dir
+
+button
+dir
+
+datepicker
+dir
+
+demos.css
+file
+
+
+
+
+2010-12-21T19:51:39.000000Z
+2e2ec04700af4ac5681a956cfe405c47
+2010-12-21T17:32:44.663583Z
+10
+u031281
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14338
+
+dialog
+dir
+
+draggable
+dir
+
+droppable
+dir
+
+effect
+dir
+
+hide
+dir
+
+images
+dir
+
+index.html
+file
+
+
+
+
+2010-12-21T19:51:39.000000Z
+6affdc6d3635c74c2fd261608e2b770d
+2010-12-21T17:32:44.663583Z
+10
+u031281
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15608
+
+position
+dir
+
+progressbar
+dir
+
+removeClass
+dir
+
+resizable
+dir
+
+selectable
+dir
+
+show
+dir
+
+slider
+dir
+
+sortable
+dir
+
+switchClass
+dir
+
+tabs
+dir
+
+toggle
+dir
+
+toggleClass
+dir
+
